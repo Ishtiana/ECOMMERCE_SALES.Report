@@ -8,13 +8,13 @@ This project provides an interactive and insightful analysis of e-commerce sales
 
 **Key Performance Indicators (KPIs):**
 
--💰 **Total Sales Amount** (438K).
+-💰 **Total Sales Amount** (139K).
 
--📈  **Total Profit** (37K).
+-📈  **Total Profit** (18K).
 
--📦**Total Quantity Sold** (5615).
+-📦**Total Quantity Sold** (1738).
   
--🛒  **Average Order Value** (AOV) (121K).
+-🛒  **Average Order Value** (AOV) (37K).
 
 
   
